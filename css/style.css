@@ -1,0 +1,46 @@
+.container {
+    width: 700px;
+    height: 500px;
+    border: 10px solid lightblue;
+    border-top-right-radius: 7%;
+    border-top-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+    border-bottom-left-radius: 7%;
+    margin: auto;
+}
+
+.demo2, .demo3 {
+    width: 150px;
+    height: 70px;
+    margin: 100px;
+    padding: 0%;
+    border: 5px double lightgreen;
+    border-top-right-radius: 20%;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 20%;
+}
+
+.container div button {
+    width: 100%;
+    height: 100%;
+    border: 1px solid transparent;
+    border-top-right-radius: 20%;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 20%;
+    background-color: white;
+    color: lightgreen;
+}
+
+.demo1, .demo4 {
+    display: inline-block;
+}
+
+.screen1, .screen2 {
+    width: 150px;
+    height: 70px;
+    margin-top: 70px;
+    border: 5px dashed lightsalmon;
+    background-color: lightgoldenrodyellow;
+}
